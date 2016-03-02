@@ -1,2 +1,2 @@
 # filter
-webgl滤镜库
+用法：new Swift(canvas).gaussianBlur(radius).applyTo(image);
